@@ -83,17 +83,10 @@ pip install -r requirements.txt
 
 ## 📌 Citation
 
-If you use this code or dataset in your research, please cite:
+If you use this code  in your research, please cite:
 
 > Maeda-Gutiérrez, V.; Oropeza-Valdez, J.J.; Reveles-Gómez, L.C.; Padron-Manrique, C.; Resendis-Antonio, O.; Solís-Sánchez, L.O.; Guerrero-Osuna, H.A.; Olvera Olvera, C.A.  
 > **AI-Driven Plant Health Assessment: A Comparative Analysis of Inception V3, ResNet-50 and ViT with SHAP for Accurate Disease Identification in Taro**.  
 > *Agronomy* 2025, 15(1), 77. https://doi.org/10.3390/agronomy15010077
 
 ---
-
-## 📬 Contact
-
-For questions or collaboration opportunities, feel free to contact:
-
-- Juan José Oropeza-Valdez · [ORCID](https://orcid.org/)  
-- Carlos Alberto Olvera Olvera · [ORCID](https://orcid.org/)
