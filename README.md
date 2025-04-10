@@ -9,7 +9,7 @@ Valeria Maeda-Gutiérrez¹† · Juan José Oropeza-Valdez²*† · Luis C. Reve
 🔗 DOI: [10.3390/agronomy15010077](https://doi.org/10.3390/agronomy15010077)
 
 ---
-
+**Authors**  \n† = First authors
 ## 📌 Overview
 
 This project explores the potential of deep learning for plant disease detection, with a focus on **taro (Colocasia esculenta)** leaf diseases. We benchmark three state-of-the-art computer vision architectures:
